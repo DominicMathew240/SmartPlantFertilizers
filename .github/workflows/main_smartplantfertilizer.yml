@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'SmartPlantFertilizer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6242C4F9B80D4254A3DDF3B9D06BF12E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0F7BBCB66EC9462C98C3BB81F1E0B84B }}
